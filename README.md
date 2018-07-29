@@ -39,10 +39,26 @@
   </tr>
 </table>
 
+<hr>
+
 # ▸ 💵 | Economy
  > `balance, chickenfight, cookie, daily, descripion, emojibet, gangfight, market, number, pay, purchase, slots, typerace, work`
  
-▸ 📋 | Information
+# ▸ 📋 | Information
+> `about, channel, commands, config, credits, help, membercount, profile, server, stats, whois`
+
+# ▸ 🔧 | Utility
+> `announce, autorole, avatar, github, google, memberlog, now, prefix, urban, weather`
+
+# ▸ 🔨 | Moderation
+> `addmod, ban, clearwarns, delmod, kick, lockdown, purge, warn, warning`
+
+# ▸ 🎮 | Fun n' Games
+> `achievement, battle, blurpify, bootiful, cat, challenger, clyde, coolness, dadjoke, either, facepalm, fortnite, fortune, invert, meme, murder, name, pls, rate, roast, rps, sepia, ship, silhouette, smartguy, superpower, triggered, trivia, trumptweet, ttt, veto, wanted`
+
+# ▸ 😏 | Roleplay
+
+> `highfive, hug, poke, punch, slap`
 
 <hr>
 <p align="center">
