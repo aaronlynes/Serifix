@@ -1,6 +1,3 @@
-# Serifix
-> Discord.JS | Serifix - v0.5-EXP
-
 <p align="center">
 <h1 align="center" style="font-family:"Arial Black";"><strong>       🚀 ◂ SERIFIX | Discord.JS :: v0.5-EXP</strong></h1>
 </p>
@@ -41,6 +38,12 @@
     <td class="tg-baqh"><span style="font-style:italic">5</span></td>
   </tr>
 </table>
+
+# ▸ 💵 | Economy
+ > `balance, chickenfight, cookie, daily, descripion, emojibet, gangfight, market, number, pay, purchase, slots, typerace, work`
+ 
+▸ 📋 | Information
+
 <hr>
 <p align="center">
   <img src="https://media.discordapp.net/attachments/368871628253298701/466440027132526593/TEXT_-_SerifixDocs.png">
