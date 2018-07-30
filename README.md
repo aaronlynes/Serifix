@@ -69,6 +69,12 @@ Serifix is a small project primarily for a friendly rivalry with a friend, which
 <br/>
 It's feature-rich, and several commands are added almost weekly!
 
+<p align="left">
+  <img src="https://discordbots.org/api/widget/453235434172973056.svg">
+</p>
+<p align="center">
+  <img src="https://discordbots.org/api/widget/https://botsfordiscord.com/api/v1/bots/453235434172973056/embed.svg">
+</p>
 <p align="right">
   <img src="https://nuggetbot.com/listcord/embed.svg?id=453235434172973056">
 </p>
