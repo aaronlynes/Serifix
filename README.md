@@ -61,7 +61,7 @@
 > `highfive, hug, poke, punch, slap`
 <hr>
 # SX | About
-Serifix is a small project primarily for a friendly rivalry with a friend, which ended. But, it was also a tool for me to learn development. It's written in Node-JS, with the assistance of the module **Discord.js Stable ( v11.3.2 )**! It was developed by SxR#3550, and advertised with the help of TheHunted#0550, and of course the listing servers, the main one being Discord Bots List.
+Serifix is a small project primarily for a friendly rivalry with a friend, which ended. But, it was also a tool for me to learn development. It's written in Node-JS, with the assistance of the module <strong>Discord.js Stable ( v11.3.2 )</strong>! It was developed by SxR#3550, and advertised with the help of TheHunted#0550, and of course the listing servers, the main one being Discord Bots List.
 —
 It's feature-rich, and several commands are added almost weekly! 
 <hr>
