@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td class="tg-lhfu"><span style="font-weight:bold">ECONOMY</span></td>
-    <td class="tg-xojs"><span style="text-decoration:underline">Entertaining, someone please triple emphasize the "</span><span style="font-style:italic;text-decoration:underline">entertaining</span><span style="font-style:normal;text-decoration:underline">!" All this fun in one small bot!?</span></td>
+    <td class="tg-xojs"><span style="text-decoration:underline">Amusing real-world like economy features, with a few extras!</span></td>
     <td class="tg-baqh"><span style="font-style:italic">14</span></td>
   </tr>
   <tr>
