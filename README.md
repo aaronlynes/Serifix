@@ -70,31 +70,6 @@ Serifix is a small project primarily for a friendly rivalry with a friend, which
 It's feature-rich, and several commands are added almost weekly!
 </p>
 <hr>
-# ABOUT | Serifix
-Serifix is a small project primarily for a friendly rivalry with a friend, which ended. But, it was also a tool for me to learn development. It's written in Node-JS, with the assistance of the module **Discord.js Stable ( v11.3.2 )**! It was developed by `SxR#3550`, and advertised with the help of `TheHunted#0550`, and of course the listing servers, the main one being Discord Bots List.
-
-**NOTE** Serifix's source code is not available anywhere. I change the token almost each day. The bot is online 24/7, if you are unable to run a command, try again; I refresh the bot a lot when under maintenance.
-
-———
-
- • You can find Serifix's documentation on GitHub | [Click Here](https://github.com/xShadqt/Serifix)
- 
- • You can find Serifix's main site on DBL | [Click Here](https://discordbots.org/bot/453235434172973056)
-
-# COMMANDS | Serifix
-> It has commands in these categories. `Economy, Fun, Moderation, Utility, Roleplay, Information`
-
-Here's a preview of one of Serifix's fun commands.
-![Battle](https://i.gyazo.com/525a21c00340562b1c2e3110b511ef39.png)
-![Ship Command](https://i.gyazo.com/525a21c00340562b1c2e3110b511ef39.png)
-
-———
-
-Here's a preview of one of Serifix's info commands.
-[**REDDIT DID NOT SHOW**, [CLICK HERE](https://i.gyazo.com/08fa54589143a0c9eadfec9260f3b49c.png) **TO VIEW**]
-![Profile Command](https://i.gyazo.com/08fa54589143a0c9eadfec9260f3b49c.png)
-
-<hr>
 <p align="center">
 <img src="https://nuggetbot.com/listcord/embed.svg?id=453235434172973056" width="30%"></img> <img src="https://discordbots.org/api/widget/453235434172973056.svg" width="30%"></img> <img src="https://botsfordiscord.com/api/v1/bots/453235434172973056/embed.svg" width="30%"></img> 
 </p>
