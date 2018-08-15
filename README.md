@@ -46,7 +46,7 @@
 
 # ▸ 💵 | Economy
  > `balance, chickenfight, daily, descripion, emojibet, fishing, gangfight, market, mining, number, pay, purchase, slots, typerace, work`
- — `s!balance [ USER ]` | Fetch your/someone's balance.
+ — `s!balance [ USER ]` | Fetch your/someone's balance. <br/>
  — `s!chickenfight < BET >` | You must buy a chicken to use this command. ( s!market )
  — `s!daily` | Earn your daily income.
  — `s!description < DESCRIPION >` | Set a bio for your Serifix Usercard, this will charge you 25 credits.
