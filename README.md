@@ -46,6 +46,7 @@
 
 # ▸ 💵 | Economy
  > `balance, chickenfight, daily, descripion, emojibet, fishing, gangfight, market, mining, number, pay, purchase, slots, typerace, work` <br/>
+  <br/>
  — `s!balance [ USER ]` | Fetch your/someone's balance. <br/>
  — `s!chickenfight < BET >` | You must buy a chicken to use this command. ( s!market ) <br/>
  — `s!daily` | Earn your daily income. <br/>
@@ -63,7 +64,8 @@
  — `s!work` | Work and get some major moolah! <br/>
  
 # ▸ 📋 | Information
-> `about, airline, airport, channel, commands, config, credits, emoji, help, membercount, profile, role, roleid, server, stats, whois` <br/>
+> `about, airline, airport, channel, commands, config, credits, emoji, help, membercount, profile, role, roleid, server, stats, whois` <br/> 
+ <br/>
  — `s!about` | Receive information regarding the bot. <br/>
  — `s!airline [ AIRLINE ]` | Get information about an airline, or a random one. <br/>
  — `s!airport [ AIRPORT CODE ]` | Get information about America's major airports, or a random one. <br/>
@@ -82,7 +84,8 @@
  — `s!whois [ USER ]` | Fetch information about a user. <br/>
 
 # ▸ 🔧 | Utility
-> `addrole, announce, auditlog, autorole, avatar, battlefield, delrole, fortnite, github, google, mcpe, memberlog, now, ping, prefix, rolecolor, urban, weather` <br/>
+> `addrole, announce, auditlog, autorole, avatar, battlefield, delrole, fortnite, github, google, mcpe, memberlog, now, ping, prefix, rolecolor, urban, weather` <br/> 
+ <br/>
  — `s!addrole < USER > < ROLE >` | Add a role to someone! <br/>
  — `s!announce < CHANNEL > < NEWS >` | Announce something, yay..? <br/>
  — `s!auditlog < CHANNEL >` | Set the guild's audit-logging channel. <br/>
@@ -96,7 +99,8 @@
  — `s!mcpe < IP > [ PORT ]` | Query information regarding a Minecraft:PE server! <br/>
 
 # ▸ 🔨 | Moderation
-> `addmod, ban, banlist, clearnick, clearwarns, delmod, forceban, kick, lockdown, modlog, mute, nickname, purge, unban, unmute, warn, warnings` <br/>
+> `addmod, ban, banlist, clearnick, clearwarns, delmod, forceban, kick, lockdown, modlog, mute, nickname, purge, unban, unmute, warn, warnings` <br/> 
+ <br/>
  — `s!addmod < TARGET >` | Give a user access to moderation commands. <br/>
  — `s!ban < TARGET > < REASON >` | Bannish a user! <br/>
  — `s!banlist` | View the server's ban list. <br/>
@@ -116,7 +120,8 @@
  — `s!warnings < TARGET >` | View all the warnings a user has received. <br/>
 
 # ▸ 🎮 | Fun n' Games
-> `achievement, battle, blurpify, bootiful, cat, challenger, clyde, coolness, dadjoke, either, facepalm, fortune, future, invert, meme, murder, name, plane, pls, rate, roast, rps, say, sepia, ship, silhouette, smartguy, superpower, triggered, trivia, trumptweet, ttt, veto, wanted` <br/>
+> `achievement, battle, blurpify, bootiful, cat, challenger, clyde, coolness, dadjoke, either, facepalm, fortune, future, invert, meme, murder, name, plane, pls, rate, roast, rps, say, sepia, ship, silhouette, smartguy, superpower, triggered, trivia, trumptweet, ttt, veto, wanted` <br/> 
+ <br/>
  — `s!achievement < ACHIEVEMENT >` | Yay, a Minecraft achievement..? <br/>
  — `s!battle < USER >` | Challenge a user to a battle. <br/>
  — `s!blurpify [ USER ]` | Blurpify a user's avatar. <br/>
@@ -152,7 +157,8 @@
  — `s!wanted < USER >` | A user is wanted.. Heavily armed and dangerous, oh—no! <br/>
 
 # ▸ 😏 | Roleplay
-> `breakup, cuddle, evolve, fistbump, highfive, hug, kill, pat, poke, punch, slap, tackle` <br/>
+> `breakup, cuddle, evolve, fistbump, highfive, hug, kill, pat, poke, punch, slap, tackle` <br/> 
+ <br/>
  — `s!breakup < USER >` | Breakup with another user.. <br/>
  — `s!cuddle < USER >` | Cuddle with another user! <br/>
  — `s!evolve` | Evolve into the next stage! <br/>
