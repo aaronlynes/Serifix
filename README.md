@@ -42,7 +42,7 @@
 <hr>
 
 # ▸ Documentation
-> If the parameters is surrounded by a set of `< >`, it's required. If it's surrounded by a set of `[ ]`, it's necessary. Also, for some commands, you are able to use user IDs. ( **Ex. KICK, BAN, MUTE, etc** )
+> If the parameters are surrounded by a set of `< >`, that parameter is required. But if it's surrounded by a set of `[ ]`, it's not considered necessary. For some commands, you are able to use user IDsand/or just a name instead of a mention. ( **Ex. KICK, BAN, MUTE, etc** )
 
 # ▸ 💵 | Economy
  > `balance, chickenfight, daily, descripion, emojibet, fishing, gangfight, market, mining, number, pay, purchase, slots, typerace, work` <br/>
@@ -54,6 +54,7 @@
  — `s!fishing` | Fish with your boy, Serifix! <br/>
  — `s!gangfight < USER >` | Have a gang-fight with someone! <br/>
  — `s!market` | Go to the market. <br/>
+ — `s!leaderboard` | Check the global top balances.
  — `s!mining` | Mine with your boy, Serifix! <br/>
  — `s!number` | Try to guess the correct number, between 1 — 5. <br/>
  — `s!pay < USER > < AMOUNT >` | Pay someone some of your credits. <br/>
@@ -178,7 +179,7 @@ It's feature-rich, and several commands are added almost weekly!
 </p>
 <hr>
 <p align="center">
-<img src="https://nuggetbot.com/listcord/embed.svg?id=453235434172973056" width="30%"></img> <img src="https://discordbots.org/api/widget/453235434172973056.svg" width="30%"></img> <img src="https://botsfordiscord.com/api/v1/bots/453235434172973056/embed.svg" width="30%"></img> 
+<img src="https://discordbots.org/api/widget/453235434172973056.svg" width="30%"></img> <img src="https://botsfordiscord.com/api/v1/bots/453235434172973056/embed.svg" width="30%"></img> 
 </p>
 
 <hr>
